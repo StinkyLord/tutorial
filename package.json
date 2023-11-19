@@ -9,6 +9,16 @@
     "lodash": "4.17.20",
     "@date-io/date-fns": "2.10.0",
     "@date-io/moment": "2.10.0",
-    "six": "0.0.6"
+    "six": "0.0.6",
+    "semver-utils": "1.1.4",
+    "shlex": "2.1.2",
+    "simple-git": "3.16.0",
+    "slugify": "1.6.5",
+    "source-map-support": "0.5.21",
+    "upath": "2.0.1",
+    "url-join": "4.0.1",
+    "validate-npm-package-name": "5.0.0",
   }
 }
+
+
